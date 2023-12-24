@@ -414,7 +414,7 @@ MonoBehaviour:
     rightWheelMesh: {fileID: 156111649}
     motor: 1
     steering: 0
-  maxMotorTorque: 800
+  maxMotorTorque: -800
   maxSteeringAngle: 30
   brakeTorque: 400
   decelerationForce: 200
